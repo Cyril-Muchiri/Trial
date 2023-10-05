@@ -1,6 +1,4 @@
-#
-How to set up git repo 
-####
+# How to set up git repo 
 - Login/Signup to github account
 - Create a new repository on Github
 - Initialize a license and gitignore
