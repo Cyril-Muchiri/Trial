@@ -20,9 +20,9 @@
     git pull origin main
 ```
 - ####  Create a README.md file using a text editor and save 
-- ####  Stage the newly added files using 
+- ####  Stage the newly added file using 
 ```
-    git add .
+    git add README.md
 ``` 
 - ####  Commit the new changes by using 
 ```
