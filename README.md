@@ -9,8 +9,8 @@
 - Set  the remote origin by using `git remote add origin <ssh link>`
 - Pull the code from from the origin by using `git pull origin main`
 - Create a README.md file using a text editor and save
-- Stage the newly added file using `git add .`
-- Commit the new changes by using `git commit`
+- Stage the all the newly added files using `git add .`
+- Commit the new changes by using `git commit` and add a message
 -Push the changes to the remote repo using `git push origin main`
 
 
