@@ -5,7 +5,7 @@
 - Copy the ssh link
 - Open the git cli on your local machine
 - Create a new Target folder
-- Initialize the new folder by using `git init`
+- Initialize the new folder to a git repo by using `git init`
 - Set  the remote origin by using `git remote add origin <ssh link>`
 - Pull the code from from the origin by using `git pull origin main`
 - Create a README.md file using a text editor and save
